@@ -1,0 +1,12 @@
+.site-header .brand,
+nav a,
+.text-link,
+footer a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+
+.header-action {
+  min-height: 44px;
+}
