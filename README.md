@@ -13,7 +13,7 @@ Platformen bruges i intern pilot. Offentlig konto-oprettelse og abonnement
 for private er endnu ikke åbnet. Et website eller en GitHub-release er ikke
 bevis for, at hele SaaS-produktet er klar til kunder.
 
-[Produkt og data](docs.html) · [Kontakt/demo](https://www.byens-it.dk/kontakt/)
+[Website](https://byensitmagnus.github.io/byens-it-ai-platform/) · [Produkt og data](https://byensitmagnus.github.io/byens-it-ai-platform/docs.html) · [Kontakt/demo](https://www.byens-it.dk/kontakt/)
 · [Ændringer](CHANGELOG.md) · [Sikkerhed](SECURITY.md)
 
 ## Lokal visning
