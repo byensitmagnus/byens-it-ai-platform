@@ -33,7 +33,9 @@ Illustrationen på forsiden er en konceptillustration, ikke et kundebevis.
 ## Om Byens IT
 
 Byens IT ApS (CVR 46491661) er et dansk firma, der sælger gaming-computere og leverer
-IT-service. Byens IT ledes af Magnus Steinmeier Olsen, stifter og direktør.
+IT-service. Byens IT ledes af
+[Magnus Steinmeier Olsen](https://dk.linkedin.com/in/magnus-steinmeier-olsen-204b42237),
+stifter og direktør.
 [byens-it.dk](https://www.byens-it.dk) · [GitHub-profil](https://github.com/byensitmagnus)
 
 ## Feedback og udgivelser
